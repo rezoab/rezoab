@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there :shipit:
 
-<!--
-**rezoab/rezoab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :pirate_flag: I'm *Rezo*, Currently student in Spain
+- 🌱 I like building websites, but looking forward to expand my skills in other areas.
+- :joy: I'm currently learning everything
+- :sparkles: Fun fact: I love football :soccer: F1 :racing_car: and Gaming :video_game:
 
-Here are some ideas to get you started:
+<p align="left">
+  <a href="https://github.com/rezoab?tab=followers">
+  <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/rezoab?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  
+  ---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Tools :toolbox:
+
+  <img align="left" alt="Visual Studio Code" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+
+  
