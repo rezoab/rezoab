@@ -14,6 +14,7 @@
   Tools :toolbox:
 
   <img align="left" alt="Visual Studio Code" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+ <img align="left" alt="idea" width="50px" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/960px-IntelliJ_IDEA_Icon.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" style="padding-right:10px;" />
   
 <br>
 <br>
